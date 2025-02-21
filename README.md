@@ -2,3 +2,4 @@
 "# Qr-code-generator" 
 "# QR-code" 
 "# Qr-code-generator" 
+"# QRcode" 
